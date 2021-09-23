@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swaph
 - I’m primarily interested in Front-end development and UI/UX Design.
 - I’m currently learning the basics of UX Design and working on my portfolio.
-- Any tips on more UI/UX design resources are welcome.
+- Show me some more UI/UX design resources.
 
 <!---
 Swaph/Swaph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

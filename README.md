@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Swaph - A novice front-end developer, UI/UX designer and a nerd for ✨aesthetics✨.
 - Occasionally, I do some Technical content writing.
-- I’m currently working on my UI/UX Design portfolio.
-- Obvious fact: I'm a big Rick & Morty fan.
 - Twitter:[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/theegichuki.svg?style=social&label=Follow%20%40theegichuki)](https://twitter.com/theegichuki) 
 
 
